@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-urifhuihsfiuh
-=======
-we are adding
->>>>>>> feat1
